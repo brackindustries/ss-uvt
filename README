@@ -1,0 +1,10 @@
+ss-uvt.js
+=========
+
+Eases developing with SilverStripe in providing links to setting and removing URL variables commonly used by the software. 
+
+Usage
+-----
+
+Include ss-uvt.js in your template for immediate availability.
+Use it as a bookmarklet. ssuvt.php uses jsmin to provide a link. Or use <http://dev.brack-industries.com/ss-uvt/> for a working version on the web. 
